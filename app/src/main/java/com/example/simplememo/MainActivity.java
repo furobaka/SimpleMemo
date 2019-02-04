@@ -1,3 +1,4 @@
+//https://high-programmer.com/2017/09/01/android-studio-memo-app-1/
 package com.example.simplememo;
 
 import android.app.ListActivity;
